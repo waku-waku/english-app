@@ -1,0 +1,27 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:actionBarStyle">@style/ActionBarStyle</item>-->
+        <item name="colorPrimary">@color/action_bar</item>
+    </style>
+
+    <!--<style name="ActionBarStyle" parent="android:Widget.Holo.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/ActionBarTitleStyle</item>
+        <item name="android:subtitleTextStyle">@style/ActionBarSubitleStyle</item>
+        <item name="android:background">@drawable/gradation</item>
+        <item name="android:backgroundStacked">@android:color/white</item>
+    </style>
+
+    <style name="ActionBarTitleStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="ActionBarSubitleStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>-->
+
+</resources>
